@@ -1,2 +1,2 @@
 # UCSC_CSE30
-2021 Fall
+Fall Quarter 2021
